@@ -32,6 +32,9 @@
 /// <param name="values">数据集</param>
 /// <param name="useAnmi">是否使用动画</param>
 public void SetData(float[] values, bool useAnmi = false)
+```
 
 ## 3.后期目标
-- List item
+
+ - [ ] 融合到[XFramework](https://github.com/xdedzl/XFramework)
+ - [ ] 对每个数据面添加闪烁效果
